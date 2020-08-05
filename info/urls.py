@@ -22,7 +22,7 @@ from . import views
 
 urlpatterns = [
     path('',views.Home),
-    path('add/',views.add),
+    path('mail/',views.mail),
     
 
 ]
